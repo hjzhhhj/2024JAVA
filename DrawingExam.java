@@ -18,7 +18,7 @@ class Truck extends Car{
 			return "[차의 종류는 " + name + "이다.]";
 		}
 }
-class Main{
+class DrawingExam{
 		public static void main(String[] args){
 			Car mycar, yourcar;
 			Bus mybus, yourbus;
