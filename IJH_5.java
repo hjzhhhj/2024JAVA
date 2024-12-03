@@ -6,15 +6,15 @@ class Employee{
 	private char basesalary;
 }
 
-class Manager extends Employee {
+class Manager1 extends Employee {
 	int LV;
 }
 
-class SalesMan{
+class SalesMan1{
 	int SC;
 }
 
-class Temporary{
+class Temporary1{
 	int PB;
 	int CP;
 }
